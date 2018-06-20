@@ -1,4 +1,4 @@
 # js-playground
 
-Some excercises from checkio.org.
+Some excercises from checkIO.org.
 Improving skills...
